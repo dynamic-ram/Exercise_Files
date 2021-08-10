@@ -19,5 +19,5 @@ func main() {
 	default:
 		fmt.Printf("many")
 	}
-	
+
 }
