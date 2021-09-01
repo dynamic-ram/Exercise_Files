@@ -1,0 +1,10 @@
+2021/08/26 16:40:12 error: open /path/to/config.toml: The system cannot find the path specified.
+can't open configuration file
+main.readConfig
+	C:/Github/Exercise_Files/Ch05/05_01_02/errors_complete.go:20
+main.main
+	C:/Github/Exercise_Files/Ch05/05_01_02/errors_complete.go:41
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:225
+runtime.goexit
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1371
